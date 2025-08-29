@@ -10,12 +10,17 @@
 - Todos os hosts conseguem se comunicar.
 
 **Imagem da topologia:**
-Redes simples: <img width="737" height="278" alt="Image" src="https://github.com/user-attachments/assets/4f426d52-671f-4b7e-b681-2738ca90e4a4" />
+Redes simples: 
 
-**Teste de comunicação (ping):**
-Mostrando IP atribuido: <img width="630" height="326" alt="Image" src="https://github.com/user-attachments/assets/1c82d163-1114-4a0a-9c6d-1f9ced81f938" />
-<img width="691" height="541" alt="Image" src="https://github.com/user-attachments/assets/fffe35c2-060d-40c4-9de1-a5c4dd8d6940" />
----
+<img width="737" height="278" alt="Image" src="https://github.com/user-attachments/assets/4f426d52-671f-4b7e-b681-2738ca90e4a4" />
+
+**Teste (ping):** 
+
+<img width="630" height="326" alt="Image" src="https://github.com/user-attachments/assets/1c82d163-1114-4a0a-9c6d-1f9ced81f938" />
+
+Mostrando IP atribuido: 
+
+<img width="691" height="541" alt="Image" src="https://github.com/user-attachments/assets/fffe35c2-060d-40c4-9de1-a5c4dd8d6940" />---
 
 ## 🔹 2. Rede com Switches em Camada 2
 📌 Arquivo: `topologias/rede-com-switches.pkt`
@@ -25,11 +30,15 @@ Mostrando IP atribuido: <img width="630" height="326" alt="Image" src="https://g
 - Comunicação confirmada via ping.
 
 **Imagem da topologia:**
-Rede com switches: <img width="720" height="334" alt="Image" src="https://github.com/user-attachments/assets/bd4a58a4-8903-4607-aed5-a8f115932240" />
+Rede com switches: 
+<img width="720" height="334" alt="Image" src="https://github.com/user-attachments/assets/bd4a58a4-8903-4607-aed5-a8f115932240" />
 
 
 **Teste de comunicação:**
-Ping switches: <img width="696" height="463" alt="Image" src="https://github.com/user-attachments/assets/62f36b00-adc4-4b3f-9615-08ad9df755c0" />
+
+Ping switches: 
+
+<img width="696" height="463" alt="Image" src="https://github.com/user-attachments/assets/62f36b00-adc4-4b3f-9615-08ad9df755c0" />
 
 ---
 
