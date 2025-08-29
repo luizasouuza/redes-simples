@@ -3,7 +3,6 @@
 
 
 ## 🔹 1. Rede Local Simples (com DHCP no roteador)
-📌 Arquivo: `topologias/rede-simples.pkt`
 
 - Configuração de **DHCP direto no roteador** para distribuir IPs.
 - PCs recebem IP automaticamente.
@@ -23,7 +22,6 @@ Mostrando IP atribuido:
 <img width="691" height="541" alt="Image" src="https://github.com/user-attachments/assets/fffe35c2-060d-40c4-9de1-a5c4dd8d6940" />---
 
 ## 🔹 2. Rede com Switches em Camada 2
-📌 Arquivo: `topologias/rede-com-switches.pkt`
 
 - Três switches interligados.
 - Todos os PCs recebem IPs fixos.
@@ -43,7 +41,6 @@ Ping switches:
 ---
 
 ## 🔹 3. Rede com VLANs (sem roteamento)
-📌 Arquivo: `topologias/vlan-basica-sem-roteamento.pkt`
 
 - Switch configurado com **VLANs 30, 40 e 50**.
 - Cada grupo de PCs pertence a uma VLAN diferente.
